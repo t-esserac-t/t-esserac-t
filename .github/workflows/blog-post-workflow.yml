@@ -17,4 +17,4 @@ jobs:
         with:
           feed_list: "https://zenn.dev/tesseract/feed"
           max_post_count: "5"
-          template: "$newline - $emojiKey(0️⃣,1️⃣,2️⃣,3️⃣,4️⃣)[$title]($url) $randomEmoji(💯,🔥,💫,🚀,🎁)$newline"
+          template: "$newline $emojiKey(0️⃣,1️⃣,2️⃣,3️⃣,4️⃣) [$title]($url)$newline"
