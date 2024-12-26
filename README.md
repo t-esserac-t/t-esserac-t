@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tesseract&show_icons=true&locale=en&layout=compact"/></p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
