@@ -15,12 +15,15 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [最近良かった技術書 - 2024/12](https://zenn.dev/tesseract/articles/76f5dcc4656679)
-- [Tech discussion in Englishでよく使う例文と単語](https://zenn.dev/tesseract/articles/475c97e7498ab3)
-- [WindowsにGCCを導入する](https://zenn.dev/tesseract/articles/9f13f1e52824e0)
-- [新人向け PJジョイン時の質問シート](https://zenn.dev/tesseract/articles/686659f6f1a663)
-- [【Unity】ドット絵のPNG画像インポート時の設定方法](https://zenn.dev/tesseract/articles/ed36bc8f24c28d)
-- [【Unity】キーコンフィグを実装する](https://zenn.dev/tesseract/articles/bdefa73e88098c)
+ 1 [最近良かった技術書 - 2024/12](https://zenn.dev/tesseract/articles/76f5dcc4656679) (Mon Dec 09 2024 3:37 PM isoDate)
+
+ 2 [Tech discussion in Englishでよく使う例文と単語](https://zenn.dev/tesseract/articles/475c97e7498ab3) (Thu Dec 05 2024 4:46 PM isoDate)
+
+ 3 [WindowsにGCCを導入する](https://zenn.dev/tesseract/articles/9f13f1e52824e0) (Thu Oct 24 2024 6:12 PM isoDate)
+
+ 4 [新人向け PJジョイン時の質問シート](https://zenn.dev/tesseract/articles/686659f6f1a663) (Wed Mar 06 2024 7:09 PM isoDate)
+
+ 5 [【Unity】ドット絵のPNG画像インポート時の設定方法](https://zenn.dev/tesseract/articles/ed36bc8f24c28d) (Mon Mar 04 2024 3:45 PM isoDate)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
