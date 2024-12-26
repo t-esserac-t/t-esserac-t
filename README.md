@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/tesseract](https://zenn.dev/tesseract)
 
-- 📫 How to reach me **Let's connect in [LinkedIn](https://www.linkedin.com/in/hanae-mokuho-81bab8273/)!**
+- 📫 How to reach me: **Let's connect in [LinkedIn](https://www.linkedin.com/in/hanae-mokuho-81bab8273/)!**
 
 ### Blogs posts
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tesseract&show_icons=true&locale=en&layout=compact"/></p>
