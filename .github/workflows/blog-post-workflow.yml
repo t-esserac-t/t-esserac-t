@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          $date_format: longTime
+          $date_format: isoDateTime o+0900
           feed_list: "https://zenn.dev/tesseract/feed"
           max_post_count: "5"
-          template: "$newline $emojiKey(0️⃣,1️⃣,2️⃣,3️⃣,4️⃣) [$title]($url) ($date)$newline    $description$newline"
+          template: "$newline $emojiKey(0️⃣,1️⃣,2️⃣,3️⃣,4️⃣) [$title]($url) ($date)$newline"
