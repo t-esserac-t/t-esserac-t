@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/_t_esserac_t_" target="blank"><img src="https://img.shields.io/twitter/follow/_t_esserac_t_?logo=twitter&style=for-the-badge" alt="_t_esserac_t_" /></a> </p>
 
-- 🌱 I’m currently learning **creating game with Unity, and making an app with Android Studio.**
+- 🌱 I’m currently learning **creating games with Unity, and making an app with Android Studio.**
 
 - 📝 I regularly write articles on [https://zenn.dev/tesseract](https://zenn.dev/tesseract)
 
