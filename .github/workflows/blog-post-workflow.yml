@@ -18,4 +18,4 @@ jobs:
           feed_list: "https://zenn.dev/tesseract/feed"
           max_post_count: "5"
           date_format: isoDate
-          template: "$newline $counter [$title]($url) ($date)$newline"
+          template: "$newline $counter. [$title]($url) ($date)$newline"
