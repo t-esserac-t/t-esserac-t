@@ -15,6 +15,11 @@
 <p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tesseract&show_icons=true&locale=en&layout=compact"/></p>
 
 <!-- BLOG-POST-LIST:START -->
+- [最近良かった技術書 - 2024/12](https://zenn.dev/tesseract/articles/76f5dcc4656679)
+- [Tech discussion in Englishでよく使う例文と単語](https://zenn.dev/tesseract/articles/475c97e7498ab3)
+- [WindowsにGCCを導入する](https://zenn.dev/tesseract/articles/9f13f1e52824e0)
+- [新人向け PJジョイン時の質問シート](https://zenn.dev/tesseract/articles/686659f6f1a663)
+- [【Unity】ドット絵のPNG画像インポート時の設定方法](https://zenn.dev/tesseract/articles/ed36bc8f24c28d)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
