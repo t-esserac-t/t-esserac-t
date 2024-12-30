@@ -11,6 +11,8 @@
 
 - 📫 How to reach me: **Let's connect in [LinkedIn](https://www.linkedin.com/in/hanae-mokuho-81bab8273/)!**
 
+- 💬 I can understand Japanese as first language, and English as second language.
+
 ### Blogs posts
 
 
