@@ -21,7 +21,7 @@
 
  1️⃣ [remote: error: GH001: Large files detected.の対処法](https://zenn.dev/tesseract/articles/9e1289ac4800cb) (Sun Jan 26 2025 8:18 AM)
 
- 2️⃣ [【Bash】ツール作りでよく使う機能](https://zenn.dev/tesseract/articles/d1f83ac60e10b8) (Thu Jan 09 2025 3:17 PM)
+ 2️⃣ [【Bash】ツール作りでよく使う機能チートシート](https://zenn.dev/tesseract/articles/d1f83ac60e10b8) (Thu Jan 09 2025 3:17 PM)
 
  3️⃣ [最近良かった技術書 - 2024/12](https://zenn.dev/tesseract/articles/76f5dcc4656679) (Mon Dec 09 2024 3:37 PM)
 
