@@ -17,7 +17,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
- 0️⃣ [SNMP関連の便利コマンド](https://zenn.dev/tesseract/articles/ff7445c5b1a49b) (Sun Jun 22 2025 4:27 AM)
+ 0️⃣ [snmpwalk, snmptranslateの便利コマンド](https://zenn.dev/tesseract/articles/ff7445c5b1a49b) (Sun Jun 22 2025 4:27 AM)
 
  1️⃣ [Pro Micro, QMK覚え書き](https://zenn.dev/tesseract/articles/648c4a4c3ec061) (Sun Mar 23 2025 2:09 PM)
 
