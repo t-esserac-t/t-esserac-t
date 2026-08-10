@@ -23,15 +23,15 @@
 
 
 <!-- BLOG-POST-LIST:START -->
- 0️⃣ [CI環境はまだないが、それでもデグレは止めたい: 強権的pom.xmlで水際対策](https://zenn.dev/tesseract/articles/599891896127b5) (Sat Apr 18 2026 9:17 AM)
+ 0️⃣ [Windows標準機能だけでWin+Shift+Sのスクショを自動リネームする](https://zenn.dev/tesseract/articles/c4502abbbc7b00) (Mon Aug 10 2026 7:14 PM)
 
- 1️⃣ [設計と実態の乖離を防ぐ、開発現場での作図ツール オススメ2選](https://zenn.dev/tesseract/articles/6c2c9f91986b2c) (Sat Dec 20 2025 11:21 AM)
+ 1️⃣ [CI環境はまだないが、それでもデグレは止めたい: 強権的pom.xmlで水際対策](https://zenn.dev/tesseract/articles/599891896127b5) (Sat Apr 18 2026 9:17 AM)
 
- 2️⃣ [nmos-cppによるダミーNMOS環境の構築【Windows】](https://zenn.dev/tesseract/articles/0b7400834e9d50) (Wed Dec 03 2025 4:33 PM)
+ 2️⃣ [設計と実態の乖離を防ぐ、開発現場での作図ツール オススメ2選](https://zenn.dev/tesseract/articles/6c2c9f91986b2c) (Sat Dec 20 2025 11:21 AM)
 
- 3️⃣ [nats server runのデフォルトポートって4222じゃないの？](https://zenn.dev/tesseract/articles/dbde1b639124c6) (Wed Oct 22 2025 6:03 PM)
+ 3️⃣ [nmos-cppによるダミーNMOS環境の構築【Windows】](https://zenn.dev/tesseract/articles/0b7400834e9d50) (Wed Dec 03 2025 4:33 PM)
 
- 4️⃣ [Tiny Ember+を&lpar;ビルドして&rpar;入手する](https://zenn.dev/tesseract/articles/bb5420d2bcdd78) (Sat Oct 11 2025 3:17 PM)
+ 4️⃣ [nats server runのデフォルトポートって4222じゃないの？](https://zenn.dev/tesseract/articles/dbde1b639124c6) (Wed Oct 22 2025 6:03 PM)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
